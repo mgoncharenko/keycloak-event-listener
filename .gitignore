@@ -1,0 +1,47 @@
+.DS_Store
+/build/
+/out/
+target/
+logs/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.pyc
+
+### VSCode
+.vscode
+bin/
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+.yarnclean
+*.lock
+
+### Terraform
+*.tfstate
+*.tfstate.backup
+*.tfplan
+**/.terraform/*
+**/.DS_Store
+**build
+*.pyc
+
+### JRebel
+rebel.xml
